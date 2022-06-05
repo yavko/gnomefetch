@@ -1,0 +1,14 @@
+[package]
+name = "gnomefetch"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gtk = { version = "0.4.6", package = "gtk4" }
+sysinfo = "0.23.13"
+adw = { version = "0.1.1", package = "libadwaita" }
+nixinfo = "0.3.3"
+which = "4.2.5"
+os-release = "0.1.0"

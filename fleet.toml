@@ -1,0 +1,5 @@
+rd_enabled = true
+fleet_id = "1bc0a695-6ad4-4a0f-941a-c8e4ff489274"
+
+[build]
+sccache = "/home/yavor/.cargo/bin/sccache"
